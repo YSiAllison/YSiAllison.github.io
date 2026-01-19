@@ -5,7 +5,7 @@ permalink: /projects/project2
 author_profile: true
 ---
 
-## Project 2: CNVreg Package to Perform Copy Number Variant Association Analysis with Penalied Regression ([Github](https://github.com/Oceanyq/CNVreg); [Vignette](https://cran.r-project.org/web/packages/CNVreg/vignettes/CNVReg_vig.html))
+## Project 2: CNVreg Package to Perform Copy Number Variant Association Analysis with Penalied Regression ([Github](https://github.com/Oceanyq/CNVreg); [Vignette](https://cran.r-project.org/web/packages/CNVreg/vignettes/CNVReg_vig.html)
 
 The CNVreg package provides functions to perform copy number variants (CNV) association analysis with penalized regression model.
 
