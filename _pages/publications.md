@@ -5,28 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please visit my [Google Scholar](https://scholar.google.com/citations?user=UwKQbYcAAAAJ&hl=en) for the full list.
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=kzlUwN0AAAAJ) for the full list.
+
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 
-1. **Huang, Caizhi**, Craig Gin, Jennifer Fettweis, Betsy Foxman, Bizu Gelaye, David A. Maclntyre, Alila Subramaniam, William Fraser, Negar Tabatabaei, and Benjamin J. Callahan. "Meta-analysis reveals the vaginal microbiome is a better predictor of earlier than later preterm birth." (Submitted; [PDF](http://hczdavid.github.io/files/meta.pdf))
-2. **Huang, Caizhi**, Benjamin J. Callahan, Michael C. Wu, Shannon T. Holloway, Hayden Brochu, Wenbin Lu, Xinxia Peng, and Jung-Ying Tzeng. "Phylogeny-guided microbiome OTU-specific association test (POST)." Microbiome 10, no. 1 (2022): 1-15. ([PDF](http://hczdavid.github.io/files/post_paper.pdf))
-3. Kang, Kai, **Caizhi Huang**, Yuanyuan Li, David M. Umbach, and Leping Li. "CDSeqR: fast complete deconvolution for gene expression data from bulk tissues." BMC bioinformatics 22, no. 1 (2021): 1-12. (**Co-first author**; [PDF](http://hczdavid.github.io/files/cdseq_paper.pdf))
-4. Paiboonrungruang, Chorlada, Emily Simpson, Zhaohui Xiong, **Caizhi Huang**, Jianying Li, Yahui Li, and Xiaoxin Chen. "Development of targeted therapy of NRF2high esophageal squamous cell carcinoma." Cellular signalling 86 (2021): 110105. ([PDF](http://hczdavid.github.io/files/nrf2-main.pdf))
-5. Shi, Menghan, Shuang Ren, Hao Chen, Jing Li, **Caizhi Huang**, Yahui Li, Yuning Han et al. "Alcohol drinking inhibits NOTCH–PAX9 signaling in esophageal squamous epithelial cells." The Journal of pathology 253, no. 4 (2021): 384-395. ([PDF](http://hczdavid.github.io/files/alcohol_paper.pdf))
-6. Odera, Joab Otieno, Zhaohui Xiong, **Caizhi Huang**, Ning Gu, Wenjun Yang, Jessie Githang'a, Elizabeth Odera, Chorlada Paiboonrungruang, and Xiaoxin Chen. "NRF2/ACSS2 axis mediates the metabolic effect of alcohol drinking on esophageal squamous cell carcinoma." Biochemical Journal 477, no. 16 (2020): 3075-3089. ([PDF](http://hczdavid.github.io/files/nrf2_joab.pdf))
-7. Fu, Junsheng, Zhaohui Xiong, **Caizhi Huang**, Jing Li, Wenjun Yang, Yuning Han, Chorlada Paiboonrungruan et al. "Hyperactivity of the transcription factor Nrf2 causes metabolic reprogramming in mouse esophagus." Journal of Biological Chemistry 294, no. 1 (2019): 327-340. ([PDF](http://hczdavid.github.io/files/hyperactivity.pdf))
+1. **Si, Yaqin**, Wenbin Lu, Shannon Holloway, Hui Wang, Albert A. Tucci, Amanda Brucker, Yuhuan Cheng, Li-San Wang, Gerard Schellenberger, Wan-Ping Lee, and others. "CNV-Profile Regression: A New Approach for Copy Number Variant Association Analysis in Whole Genome Sequencing Data." *bioRxiv* (2024).
 
-**Presentations and Seminars**
+2. Wang, Hui, Beth A. Dombroski, Po-Liang Cheng, Albert Tucci, **Yaqin Si**, John J. Farrell, Jung-Ying Tzeng, Yuk Yee Leung, John S. Malamon, and Alzheimer's Disease Sequencing Project, and others. "Structural variation detection and association analysis of whole-genome-sequence data from 16,543 Alzheimer’s disease sequencing project subjects." *Alzheimer's & Dementia* 21, no. 6 (2025): e70277.
 
-* Joint statistical meetings (poster, 2022)
-* UNC microbiome seminar (20-min talk, 2022)
-* PRIME-TR (MD Anderson) virtual microbiome meeting (30-min talk, 2022)
-* NCSU graduate symposium (poster, 2022)
-* Bioinformatics symposium (2 talks and 1 poster, 2020-2022)
-* CSHL microbiome conference (poster, 2021)
-* NCSU microbiome monthly meeting (30-min talk, 2021)
-* NCSU CVM research day (3-min talk, 2020)
+3. Liu, Qiu-Ping, Xi-Jin Chen, Jia-Min Wang, Xiao-Fei Liu, **Yaqin Si**, Jing-Yuan Liang, Peng Shen, Hong-Bo Lin, Xun Tang, and Pei Gao. "Effectiveness of different screening strategies for cardiovascular diseases prevention in a community-based Chinese population: A decision-analytic Markov model." *Beijing da xue xue bao. Yi xue ban (Journal of Peking University. Health Sciences)* 53, no. 3 (2021): 460–466.
 
+4. Gu, Xuelin, Tongjun Guo, **Yaqin Si**, Jinxi Wang, Wangjian Zhang, Furong Deng, Libo Chen, Chen Wei, Shao Lin, Xinbiao Guo, and others. "Association between ambient air pollution and daily hospital admissions for depression in 75 Chinese cities." *American Journal of Psychiatry* 177, no. 8 (2020): 735–743.
+
+5. Zhang, Dudan, Xun Tang, Peng Shen, **Yaqin Si**, Xiaofei Liu, Zhe Xu, Jinguo Wu, Jingyi Zhang, Ping Lu, Hongbo Lin, and others. "Multimorbidity of cardiometabolic diseases: prevalence and risk for mortality from one million Chinese adults in a longitudinal cohort study." *BMJ Open* 9, no. 3 (2019): e024476.
+
+6. Tian, Yaohua, Hui Liu, **Yaqin Si**, Yaying Cao, Jing Song, Man Li, Yao Wu, Xiaowen Wang, Xiao Xiang, Juan Juan, and others. "Association between temperature variability and daily hospital admissions for cause-specific cardiovascular disease in urban China: a national time-series study." *PLoS Medicine* 16, no. 1 (2019): e1002738.
+
+7. Tian, Yaohua, Hui Liu, Yiqun Wu, **Yaqin Si**, Jing Song, Yaying Cao, Man Li, Yao Wu, Xiaowen Wang, Libo Chen, and others. "Association between ambient fine particulate pollution and hospital admissions for cause specific cardiovascular disease: time series study in 184 major Chinese cities." *BMJ* 367 (2019).
+
+8. Tang, Xun, Dudan Zhang, Liu He, Na Wu, **Yaqin Si**, Yang Cao, Shaoping Huang, Na Li, Jingrong Li, Huidong Dou, and others. "Performance of atherosclerotic cardiovascular risk prediction models in a rural Northern Chinese population: results from the Fangshan Cohort Study." *American Heart Journal* 211 (2019): 34–44.
+
+9. **Si, Ya-Qin**, Xun Tang, Du-Dan Zhang, Liu He, Yang Cao, Jin-Wei Wang, Na Li, Jian-Jiang Liu, Pei Gao, and Yong-Hua Hu. "Effectiveness of different screening strategies for primary prevention of cardiovascular diseases in a rural northern Chinese population." *Beijing da xue xue bao. Yi xue ban (Journal of Peking University. Health Sciences)* 50, no. 3 (2018): 443–449.
 
 
 
+## Conference / Abstracts
+
+1. Si, Yaqin, Wenbin Lu, Albert A. Tucci, Hui Wang, Yuhuan Cheng, Li-San Wang, Gerard Schellenberg, Wan-Ping Lee, and Jung-Ying Tzeng. "Estimating association effects of Copy Number Variants using penalized regression with Lasso and weighted fusion penalties." ASHG 2023 Annual Meeting Poster Abstracts, Statistical Genetics and Genetic Epidemiology Poster Session III, Poster PB4132 (2023).
+
+2. Lin, Hongbo, Dudan Zhang, Peng Shen, Xu, Zhe, **Yaqin Si**, Tang, Xun, and Gao, Pei. "Abstract P166: Multimorbidity and risk of mortality in China: results from the Chinese Electronic Health Records Research in Yinzhou (CHERRY) Study." *Circulation* 135, no. suppl_1 (2017): AP166–AP166.
