@@ -8,7 +8,7 @@ author_profile: true
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=kzlUwN0AAAAJ) for the full list.
 
 
-1. **Si, Yaqin**, Wenbin Lu, Shannon Holloway, Hui Wang, Albert A. Tucci, Amanda Brucker, Yuhuan Cheng, Li-San Wang, Gerard Schellenberger, Wan-Ping Lee, and others. "CNV-Profile Regression: A New Approach for Copy Number Variant Association Analysis in Whole Genome Sequencing Data." *bioRxiv* (2024).
+1. **Yaqin Si**, Wenbin Lu, Shannon Holloway, Hui Wang, Albert A. Tucci, Amanda Brucker, Yuhuan Cheng, Li-San Wang, Gerard Schellenberger, Wan-Ping Lee, and others. "CNV-Profile Regression: A New Approach for Copy Number Variant Association Analysis in Whole Genome Sequencing Data." *bioRxiv* (2024).
 
 2. Wang, Hui, Beth A. Dombroski, Po-Liang Cheng, Albert Tucci, **Yaqin Si**, John J. Farrell, Jung-Ying Tzeng, Yuk Yee Leung, John S. Malamon, and Alzheimer's Disease Sequencing Project, and others. "Structural variation detection and association analysis of whole-genome-sequence data from 16,543 Alzheimer’s disease sequencing project subjects." *Alzheimer's & Dementia* 21, no. 6 (2025): e70277.
 
@@ -20,12 +20,12 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=kzlUw
 
 3. Liu, Qiu-Ping, Xi-Jin Chen, Jia-Min Wang, Xiao-Fei Liu, **Yaqin Si**, Jing-Yuan Liang, Peng Shen, Hong-Bo Lin, Xun Tang, and Pei Gao. "Effectiveness of different screening strategies for cardiovascular diseases prevention in a community-based Chinese population: A decision-analytic Markov model." *Beijing da xue xue bao. Yi xue ban (Journal of Peking University. Health Sciences)* 53, no. 3 (2021): 460–466.
    
-9. **Si, Ya-Qin**, Xun Tang, Du-Dan Zhang, Liu He, Yang Cao, Jin-Wei Wang, Na Li, Jian-Jiang Liu, Pei Gao, and Yong-Hua Hu. "Effectiveness of different screening strategies for primary prevention of cardiovascular diseases in a rural northern Chinese population." *Beijing da xue xue bao. Yi xue ban (Journal of Peking University. Health Sciences)* 50, no. 3 (2018): 443–449.
+9. **Ya-Qin Si**, Xun Tang, Du-Dan Zhang, Liu He, Yang Cao, Jin-Wei Wang, Na Li, Jian-Jiang Liu, Pei Gao, and Yong-Hua Hu. "Effectiveness of different screening strategies for primary prevention of cardiovascular diseases in a rural northern Chinese population." *Beijing da xue xue bao. Yi xue ban (Journal of Peking University. Health Sciences)* 50, no. 3 (2018): 443–449.
 
 
 
 ## Conference / Abstracts
 
-1. Si, Yaqin, Wenbin Lu, Albert A. Tucci, Hui Wang, Yuhuan Cheng, Li-San Wang, Gerard Schellenberg, Wan-Ping Lee, and Jung-Ying Tzeng. "Estimating association effects of Copy Number Variants using penalized regression with Lasso and weighted fusion penalties." ASHG 2023 Annual Meeting Poster Abstracts, Statistical Genetics and Genetic Epidemiology Poster Session III, Poster PB4132 (2023).
+1. Yaqin Si, Wenbin Lu, Albert A. Tucci, Hui Wang, Yuhuan Cheng, Li-San Wang, Gerard Schellenberg, Wan-Ping Lee, and Jung-Ying Tzeng. "Estimating association effects of Copy Number Variants using penalized regression with Lasso and weighted fusion penalties." ASHG 2023 Annual Meeting Poster Abstracts, Statistical Genetics and Genetic Epidemiology Poster Session III, Poster PB4132 (2023).
 
-2. Lin, Hongbo, Dudan Zhang, Peng Shen, Xu, Zhe, **Yaqin Si**, Tang, Xun, and Gao, Pei. "Abstract P166: Multimorbidity and risk of mortality in China: results from the Chinese Electronic Health Records Research in Yinzhou (CHERRY) Study." *Circulation* 135, no. suppl_1 (2017): AP166–AP166.
+2. Hongbo Lin, Dudan Zhang, Peng Shen, Xu, Zhe, **Yaqin Si**, Tang, Xun, and Gao, Pei. "Abstract P166: Multimorbidity and risk of mortality in China: results from the Chinese Electronic Health Records Research in Yinzhou (CHERRY) Study." *Circulation* 135, no. suppl_1 (2017): AP166–AP166.
