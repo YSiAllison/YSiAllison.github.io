@@ -34,7 +34,7 @@ staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
+ # filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
@@ -82,7 +82,7 @@ atom_feed:
 #author:
   name             : "Allison (Yaqin) Si"
   avatar           : "images/yaqinsi.jpg"
-  bio              : "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science
+  bio              : "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science"
   location         : "Raleigh, NC"
   employer         :
   #Cpubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
