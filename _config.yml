@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Huang"
+title                    : "Allison Yaqin Si"
 title_separator          : "-"
-name                     : &name "David Huang"
-description              : &description "Senior Scientist - Biostatistics at Merck & Co."
-url                      : https://hczdavid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Allison Yaqin Si"
+description              : &description "Research Assistant - Bioinformatics Research Center."
+url                      : https://YSiAllison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hczdaivd/hczdavid.github.io"
+repository               : "YSiAllison/YSiAllison.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ atom_feed:
 
 # Site Author
 author:
-  name             : "David Huang"
-  avatar           : "davidhuang.jpg"
-  bio              : "Senior Scientist - Biostatistics at Merck & Co."
-  location         : "Philadelphia, PA"
+  name             : "Allison Yaqin Si"
+  avatar           : "YaqinSi.jpg"
+  bio              : "Research Assistant -- Bioinformatics Research Center at North Carolina State University"
+  location         : "Raleigh, NC"
   employer         :
   #Cpubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=UwKQbYcAAAAJ&hl=en"
-  email            : "hczdavid@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=kzlUwN0AAAAJ"
+  email            : "siyaqin.syq@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
@@ -96,14 +96,14 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "hczdavid"
+  github           : "Oceanyq"
   #google_plus      :
   #keybase          :
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
-  linkedin         : "caizhi-david-huang-9bb04a139"
-  #orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yaqin-si-2b48551b5/"
+  orcid            : "https://orcid.org/0000-0002-9968-9754"
   # pinterest        :
   # soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Kentucky/Louisville # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
