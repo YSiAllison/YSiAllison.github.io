@@ -82,9 +82,9 @@ atom_feed:
 #author:
   name             : "Allison (Yaqin) Si"
   avatar           : "images/yaqinsi.jpg"
-  bio              : "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science"
+  bio              : "Ph.D in Bioinformatics (2026) & Master in Statistics   Interests: statistical genetics, machine learning, data science"
   location         : "Raleigh, NC"
-  employer         :
+  employer         : ""
   #Cpubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kzlUwN0AAAAJ"
   email            : "siyaqin.syq@gmail.com"
