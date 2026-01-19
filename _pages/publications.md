@@ -7,12 +7,6 @@ author_profile: true
 
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=kzlUwN0AAAAJ) for the full list.
 
----
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
 
 1. **Si, Yaqin**, Wenbin Lu, Shannon Holloway, Hui Wang, Albert A. Tucci, Amanda Brucker, Yuhuan Cheng, Li-San Wang, Gerard Schellenberger, Wan-Ping Lee, and others. "CNV-Profile Regression: A New Approach for Copy Number Variant Association Analysis in Whole Genome Sequencing Data." *bioRxiv* (2024).
 
