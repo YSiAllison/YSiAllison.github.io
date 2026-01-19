@@ -79,8 +79,8 @@ atom_feed:
 
 
 # Site Author
-#author:
-  name             : "Allison (Yaqin) Si"
+author:
+  name             : "Yaqin Si"
   avatar           : "images/yaqinsi.jpg"
   bio              : "Ph.D in Bioinformatics (2026) & Master in Statistics   Interests: statistical genetics, machine learning, data science"
   location         : "Raleigh, NC"
