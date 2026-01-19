@@ -18,7 +18,7 @@ redirect_from:
 
 ### Project 4: Genome Assembly from PacBio Sequencing Reads
 
-<img src="/files/DMGenomAssembly.png" alt="projects" width="400"/>
+<img src="/files/DMGenomeAssembly.png" alt="projects" width="400"/>
   
   
   
