@@ -8,25 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-My name is Caizhi David Huang. Currently I am a Senior Scientist in Biostatistics at Merck & Co. In my work, I provide statistical solutions and ensure adherence to scientific principles and statistical methods in study design and analysis. I also collaborate with diverse professionals, serve as a statistical representative in cross-functional teams, identify and resolve technical problems, add value to development programs, analyze and interpret data, communicate results effectively, respond to queries, and contribute to research on innovative statistical methods.
+My name is Allison Yaqin Si. Currently I am PhD Research Assistant in Biosinformatics at North Carolina State University. I have in-depth interdisciplinary training spanning epidemiology, statistics, and bioinformatics. My research centers on developing and applying statistical methods for analyzing genomics and healthcare datasets to investigate disease risks. I also serve as a statistical representative in cross-functional teams, identify and resolve technical problems, add value to development programs, analyze and interpret data, communicate results, and contribute to research on innovative statistical methods.
 
-I obtained my Ph.D. in Bioinformatics (focus on statistical genetics) co-advised by [Dr. Jung-Ying Tzeng](https://www4.stat.ncsu.edu/~jytzeng/) and [Dr. Benjamin Callahan](https://callahanlab.cvm.ncsu.edu/team/) at NC State University. My dissertation focuses on microbiome data analysis (See the [Projects](http://hczdavid.github.io/projects) for details), including developing new association test methods for microbiome data (cross sectional and longitudinal), performing meta-analysis of vaginal microbiome using machine learning and developing hypothesis testing strategy to detect contaminants in microbiome data. During my Ph.D. study, I also obtained Master of Statistics (concentrate on Biostatistics) with statistics PhD-level project and course training. My undergradate degree is in Bioengineering (focus on microbiology).
+My doctoral training focus on statistical genetics co-advised by [Dr. Jung-Ying Tzeng](https://www4.stat.ncsu.edu/~jytzeng/) and [Dr. Wenbin Lu](https://www4.stat.ncsu.edu/~wlu4//) at NC State University. [Dr. Wan-Ping Lee](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9374322) and [Dr. Hui Wang](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9545985) provide valuable insights in guiding my research work. My dissertation focuses on method development for DNA copy number variants (CNV) association analysis, motivated by the challenges of multiple features of CNV, such as type, dosage, and  length, across a large genomic region (typically one chromosome arm). I developed penalized regression models that incorporate line-graph-guided penalties (Weighted Fusion) alongside Lasso to perform variable selection and effect estimation of phenotype-associated structural variants. To evaluate these methods, I designed extensive simulation studies assessing statistical power, estimation accuracy, and robustness relative to existing approaches. This work is currently under revision at the Annals of Applied Statistics. During my Ph.D. study, I also obtained Master of Statistics with statistics PhD-level projects and course training. My have Bachelor's degrees in Preventative Medicine and Economics (co-major).
 
-In microbiome research, the communication among biologist, bioinformatician and statistician often challenged by different research focuses and interests. My unique background and training (combination of biology, bioinformatics and statistics) provides me the capability to perform comprehensive statistical research and analysis with the perspective of biologist and bioinformatician.
+A central aspect of my training is taking projects from idea to usable software. I translated my methodological work into CNVreg, an R package released on CRAN for genome-wide CNV association analysis, complete with documentation and reproducible vignettes. By the end of 2025, CNVreg had accumulated over 1,600 downloads, highlighting both community interest and my commitment to open, reproducible research. Through this process, I gained substantial experience building scalable pipelines for large-scale genomic data. I am currently preparing a companion manuscript for the Journal of Statistical Software to further document the computational and methodological contributions. 
 
-With solid scientific writing and presentation training ([Publications and Presentations](http://hczdavid.github.io/publications)), productive industry summer internship experiences ([CV](http://hczdavid.github.io/files/DavidHuangResume.pdf)), I am equipped with multiple transferable skills:
+Key strengths I am equipped with from my experience collaborating with engineers, analysts, and domain experts:
 
   * Technical skills:
     * statistical modeling and interpretation
     * machine learning and deep learning
-    * tool development including R package and Shiny app
+    * model training and validation workflow
+    * tool development: R package
     * strong programming skills using R, Python and SAS
     * data visualization
+    * experience with AWS and HPC environments
 
   * Soft skills:
     * strong writing/communication using technical and non-technical language.
-    * productive teamwork
-    * proactive leadership
+    * productive interdisciplinary teamwork
     * efficient time and task management
 
 
