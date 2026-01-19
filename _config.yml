@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Allison Yaqin Si"
 title_separator          : "-"
 name                     : &name "Allison Yaqin Si"
-description              : &description "Research Assistant - Bioinformatics Research Center."
+description              : &description "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science"
 url                      : https://YSiAllison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YSiAllison/YSiAllison.github.io"
@@ -82,7 +82,7 @@ atom_feed:
 author:
   name             : "Allison Yaqin Si"
   avatar           : "YaqinSi.jpg"
-  bio              : "Research Assistant -- Bioinformatics Research Center at North Carolina State University"
+  bio              : "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science
   location         : "Raleigh, NC"
   employer         :
   #Cpubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
