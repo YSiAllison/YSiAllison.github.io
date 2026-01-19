@@ -12,7 +12,7 @@ redirect_from:
 
 ### Project 2: CNVreg Package to Perform Copy Number Variant Association Analysis with Penalied Regression ([Github](https://github.com/Oceanyq/CNVreg); [Vignette](https://cran.r-project.org/web/packages/CNVreg/vignettes/CNVReg_vig.html)
 
-<img src="https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/continuous_simu.png" alt="projects" width="1000"/>
+<img src="https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/continuous_simu.png" alt="projects" width="400"/>
 
 
   
