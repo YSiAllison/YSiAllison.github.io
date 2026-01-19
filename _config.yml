@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Allison Yaqin Si"
+title                    : "Allison (Yaqin) Si"
 title_separator          : "-"
-name                     : &name "Allison Yaqin Si"
-description              : &description "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science"
+name                     : "Allison (Yaqin) Si"
+description              : "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science"
 url                      : https://YSiAllison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YSiAllison/YSiAllison.github.io"
@@ -80,7 +80,7 @@ atom_feed:
 
 # Site Author
 author:
-  name             : "Allison Yaqin Si"
+  name             : "Allison (Yaqin) Si"
   avatar           : "YaqinSi.jpg"
   bio              : "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science
   location         : "Raleigh, NC"
