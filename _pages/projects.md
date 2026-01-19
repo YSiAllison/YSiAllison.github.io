@@ -14,8 +14,11 @@ redirect_from:
 
 <img src="/files/continuous_simu.png" alt="projects" width="400"/>
 
+### Project 3: Joint analysis of DNA structural variants and SNPs (Ongoing)
 
-  
+### Project 4: Genome Assembly from PacBio Sequencing Reads
+
+<img src="/files/DMGenomAssembly.png" alt="projects" width="400"/>
   
   
   
