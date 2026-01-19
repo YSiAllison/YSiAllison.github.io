@@ -11,10 +11,10 @@ title                    : "Allison (Yaqin) Si"
 title_separator          : "-"
 name                     : "Allison (Yaqin) Si"
 description              : "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science"
-url                      : https://YSiAllison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : https://YSiAllison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YSiAllison/YSiAllison.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+#teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -47,7 +47,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+#  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 # google_site_verification :
@@ -79,7 +79,7 @@ atom_feed:
 
 
 # Site Author
-author:
+#author:
   name             : "Allison (Yaqin) Si"
   avatar           : "images/yaqinsi.jpg"
   bio              : "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science
