@@ -22,10 +22,10 @@ The models we used were:
 
 
 Model architecture: 
-<img src="/files/nnstructure.png" alt="projects" width="1000"/>
+<img src="/files/NNstructure.png" alt="projects" width="1000"/>
 
 LSTM training process: 
-<img src="/files/loss_LSTM.png" alt="projects" width="1000"/>
+<img src="/files/loss_lstm.png" alt="projects" width="1000"/>
 
 
 
