@@ -20,7 +20,7 @@ redirect_from:
 
 <img src="/files/DMGenomeAssembly.png" alt="projects" width="400"/>
   
-### [Project 5: Terrain Identification from wearable device signals using Neural Networks] (https://github.com/YSiAllison/YSiAllison.github.io/projects/project5)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/The%20prediction%20for%20terrain%20identification.pdf))
+### [Project 5: Terrain Identification from wearable device signals using Neural Networks](https://github.com/YSiAllison/YSiAllison.github.io/projects/project5)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/The%20prediction%20for%20terrain%20identification.pdf))
 
 <img src="/files/NNstructure.png" alt="projects" width="400"/>
 
