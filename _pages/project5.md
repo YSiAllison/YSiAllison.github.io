@@ -21,13 +21,14 @@ The models we used were:
 **Results and Conclusion**  LSTM model has the highest accuracy in validation set.  
 
 
-Model architecture: 
-<img src="/files/NNstructure.png" alt="projects" width="1000"/>
+LSTM architecture: 
+<img src="/files/NNstructure.png" alt="projects" width="400"/>
 
 LSTM training process: 
-<img src="/files/loss_lstm.png" alt="projects" width="1000"/>
+<img src="/files/loss_lstm.png" alt="projects" width="400"/>
 
-
+Result: 
+<img src="/files/tarrinpredaccuracy.png" alt="projects" width="400"/>
 
 
 
