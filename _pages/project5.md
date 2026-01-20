@@ -22,13 +22,16 @@ The models we used were:
 
 
 LSTM architecture: 
-<img src="/files/NNstructure.png" alt="projects" width="400"/>
+
+<img src="/files/NNstructure.png" alt="projects" width="300"/>
 
 LSTM training process: 
-<img src="/files/loss_lstm.png" alt="projects" width="400"/>
+
+<img src="/files/loss_lstm.png" alt="projects" width="500"/>
 
 Result: 
-<img src="/files/tarrinpredaccuracy.png" alt="projects" width="400"/>
+
+<img src="/files/tarrinpredaccuracy.png" alt="projects" width="300"/>
 
 
 
