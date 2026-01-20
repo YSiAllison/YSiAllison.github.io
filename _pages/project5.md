@@ -5,7 +5,7 @@ permalink: /projects/project5
 author_profile: true
 ---
 
-## Project 1: Terrain Identification from wearable device signals using Neural Networks ([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/The%20prediction%20for%20terrain%20identification.pdf))
+## Project 5: Terrain Identification from wearable device signals using Neural Networks ([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/The%20prediction%20for%20terrain%20identification.pdf))
 
 We composed four different neural network architectures to predict a categorical distribution of terrain types.
 select the best model based on accuracy in the validation set.
@@ -27,7 +27,7 @@ LSTM architecture:
 
 LSTM training process: 
 
-<img src="/files/loss_lstm.png" alt="projects" width="500"/>
+<img src="/files/loss_lstm.png" alt="projects" width="300"/>
 
 Result: 
 
