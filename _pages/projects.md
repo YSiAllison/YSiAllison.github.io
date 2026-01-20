@@ -22,7 +22,7 @@ redirect_from:
   
 ### Project 5: Terrain Identification from wearable device signals using Neural Networks ([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/The%20prediction%20for%20terrain%20identification.pdf))
 
-<img src="/files/NNstructure.png" alt="projects" width="300"/>
+<img src="/files/NNstructure.png" alt="projects" width="400"/>
 
 
   
