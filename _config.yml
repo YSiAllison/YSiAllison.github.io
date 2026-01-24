@@ -81,7 +81,7 @@ atom_feed:
 # Site Author
 author:
   name             : "Yaqin Si"
-  avatar           : "master/images/YaSiAllison.png"
+  avatar           : "YaSiAllison.png"
   bio              : "Ph.D in Bioinformatics (2026) & Master in Statistics   Interests: statistical genetics, machine learning, data science"
   location         : "Raleigh, NC"
   employer         : "North Carolina State University"
