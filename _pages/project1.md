@@ -16,7 +16,7 @@ author_profile: true
 **Results and Conclusion** Simulations show that CNVreg more effectively identifies causal CNVs and yields more precise effect size estimates. Using CNVreg for WGS data analyses from the Alzheimer’s Disease Sequencing Project identifies additional disease-relevant CNVs associated with Alzheimer's Disease. An R package [CNVreg](https://cran.r-project.org/web/packages/CNVreg/index.html) is available on CRAN. 
 
 
-<img src="https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/Fig1.ga_gmiu.png" alt="projects" width="1000"/>
+<img src="/files/Fig1.ga_gmiu.png" alt="projects" width="1000"/>
 
 
 
