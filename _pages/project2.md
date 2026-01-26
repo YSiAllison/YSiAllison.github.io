@@ -21,7 +21,7 @@ fit_WTSMTH(): Model fitting and effect estimate with a given pair of tuning para
 
 We have a more detailed tutorial for all functions using an example data included in the CNVreg package.
 
-Please see the CNVreg vignette for a quick tour of the CNVreg package.
+Please see the [CNVreg Vignette](https://cran.r-project.org/web/packages/CNVreg/vignettes/CNVReg_vig.html) for a quick tour of the CNVreg package.
 
 <img src="/files/continuous_simu.png" alt="projects" width="1000"/>
 
