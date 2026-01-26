@@ -5,7 +5,7 @@ permalink: /projects/project4
 author_profile: true
 ---
 
-## Project 4: Genome Assembly from PacBio Sequencing Reads 
+## Project 6: Genome Assembly from PacBio Sequencing Reads 
 
 **Background**  Constructing genome assemblies is the first step to characterize pathogens on the molecular level and provide a foundation for developing targeted diagnostic and treatment plans related diseases. Long-read sequencing technology (for example PacBio) may generate a higher-quality genome assembly for downstream research. One challenge is that the pathogens of interest only grow on leaves in the lab due to their obligate nature. The samples for PacBio sequencing are naturally contaminated with leaves, bacteria, and fungi. The aim of this project is to pick out the pathogen reads from the PacBio sequencing results and generate a more accurate assembly with less contamination.
   
