@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ### [Project 1: DNA structural variants association analysis (Method Development)](https://YSiAllison.github.io/projects/project1) ([Preprint](https://www.biorxiv.org/content/10.1101/2024.11.23.624994v1); [Poster](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/YaqinJYT_ASHG_poster.pdf))
-<img src="files/Fig1.ga_gmiu.png" alt="projects" width="400"/>
+<img src="/files/Fig1.ga_gmiu.png" alt="projects" width="400"/>
 
 ### [Project 2: CNVreg Package to Perform Copy Number Variant Association Analysis with Penalied Regression](https://YSiAllison.github.io/projects/project2) ([Github](https://github.com/Oceanyq/CNVreg); [Vignette](https://cran.r-project.org/web/packages/CNVreg/vignettes/CNVReg_vig.html))
 
-<img src="files/continuous_simu.png" alt="projects" width="400"/>
+<img src="/files/continuous_simu.png" alt="projects" width="400"/>
 
 ### Project 3: Joint analysis of DNA structural variants and SNPs (Ongoing)
 
