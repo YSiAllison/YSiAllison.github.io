@@ -23,7 +23,7 @@ We have a more detailed tutorial for all functions using an example data include
 
 Please see the CNVreg vignette for a quick tour of the CNVreg package.
 
-<img src="https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/continuous_simu.png" alt="projects" width="1000"/>
+<img src="/files/continuous_simu.png" alt="projects" width="1000"/>
 
 
 
