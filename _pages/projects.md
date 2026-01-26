@@ -16,7 +16,7 @@ redirect_from:
 
 ### Project 3: Joint analysis of DNA structural variants and SNPs (Ongoing)
 
-### [Project 4: Naturally-inspired algorithm for multiple sequence alignment] (https://YSiAllison.github.io/projects/project4) ([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCantdocs.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCAntcolony.pdf))
+### [Project 4: Naturally-inspired algorithm for multiple sequence alignment](https://YSiAllison.github.io/projects/project4) ([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCantdocs.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCAntcolony.pdf))
 <img src="/files/DCant.png" alt="projects" width="400"/>
 
   
