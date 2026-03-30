@@ -16,7 +16,7 @@ redirect_from:
 
 ### Project 3: Joint analysis of DNA structural variants and SNPs (Ongoing)
 
-### [Project 4: Federated Learning for Private and Efficient Computation](https://YSiAllison.github.io/projects/project7)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/Federated Learning Presentation.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/Federated Learning Presentation.pdf))
+### [Project 4: Federated Learning for Private and Efficient Computation](https://YSiAllison.github.io/projects/project7)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningreport.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningPresentation.pdf))
 <img src="/files/DFedAvgM.png" alt="projects" width="400"/>
 
   
