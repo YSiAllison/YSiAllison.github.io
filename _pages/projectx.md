@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/project4
+permalink: /projects/project7
 author_profile: true
 ---
 
-## Project 4: Naturally-inspired algorithm for multiple sequence alignment ([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCantdocs.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCAntcolony.pdf))
+## Project 7: Naturally-inspired algorithm for multiple sequence alignment ([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCantdocs.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCAntcolony.pdf))
 
 
 We have implemented the ant colony optimization and divide-and-conquer algorithm for multiple sequence
