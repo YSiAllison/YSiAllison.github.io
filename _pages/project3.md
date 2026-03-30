@@ -1,19 +1,26 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/project3
+permalink: /projects/project4
 author_profile: true
 ---
 
-## Project 3: Federated Learning for privacy-preserving and effective distributed learning (A review)  ([Report](files/Federated learning report.pdf); [Presentation](files/Federated Learning Presentation.pdf))
+**Summary** The Federated Learning framework provides privacy-preserving algorithms to learn a valid machine
+learning model without centralizing the data. In the training process, a central server collects model
+parameter updates from clients and aggregates the local model updates to update the global model.
+Depending on the heterogeneity between clients and the trust level assigned to the clients, robust aggregation rules can be applied in the global model update procedure to protect the central server against
+attacks on the client side. 
 
-**Background**   Copy number variants (CNVs) are DNA gains or losses involving $>50$ base-pairs. While whole-genome sequencing (WGS) enables comprehensive CNV detection, CNV association analysis of WGS data faces key challenges: Because CNVs rarely align to common breakpoints, different locus definitions can yield substantially different CNV loci. Such inconsistencies hinder result interpretability and cross-study comparison. Moreover, most existing association methods adapted from SNP analysis focus on CNV dosage and ignore length, despite evidence that CNV length contributes to disease risk.
+On the other hand, clients borrow information from their neighbors in a
+decentralized Federated Learning framework to protect against the attack on the central server side.
+Centralized Federated Learning and Decentralized Federated Learning both incorporate massive clientserver/client-client communication. Applying the quantization procedure to the model updates, increasing the local iterations before each communication round, and one-shot updating with higher-order approximation would save bandwidth in communication and enhance computation efficiency. We glimpse
+over some of the common set-ups for Federated Learning, starting at the most basic setup of the Federated Averaging Algorithm and considering extensions to suit various practical concerns, such as model
+poisoning due to attacks and heterogeneity between clients.
 
 
-**Methods** We propose CNV profile regression (CNVreg), which represents individuals’ CNV data using CNV profile curves and evaluates association by regressing traits directly on these curves. This approach naturally incorporates dosage and length effects, and produces effect estimates interpretable and comparable across studies. CNVreg uses Lasso penalty to select trait-associated CNVs and weighted fusion penalty to encourage similar effects of adjacent CNVs. 
-
-
-**Results and Conclusion** Simulations show that CNVreg more effectively identifies causal CNVs and yields more precise effect size estimates. Using CNVreg for WGS data analyses from the Alzheimer’s Disease Sequencing Project identifies additional disease-relevant CNVs associated with Alzheimer's Disease. An R package [CNVreg](https://cran.r-project.org/web/packages/CNVreg/index.html) is available on CRAN. 
+We also present a simple simulation study
+to showcase the application of Federated Learning in logistic regression, demonstrating the behavior of
+estimates with respect to the sample size and the model size.
 
 
 <img src="https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/Fig1.ga_gmiu.png" alt="projects" width="1000"/>
