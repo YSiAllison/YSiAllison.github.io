@@ -5,7 +5,7 @@ permalink: /projects/project4
 author_profile: true
 ---
 
-([Report](files/Federated learning report.pdf); [Presentation](files/Federated Learning Presentation.pdf)
+([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/Federated learning report.pdf); [Presentation]([files](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/Federated Learning Presentation.pdf)
 
 **Summary** The Federated Learning framework provides privacy-preserving algorithms to learn a valid machine
 learning model without centralizing the data. In the training process, a central server collects model
