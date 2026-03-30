@@ -17,7 +17,7 @@ redirect_from:
 ### Project 3: Joint analysis of DNA structural variants and SNPs (Ongoing)
 
 ### [Project 4: Federated Learning for Private and Efficient Computation](https://YSiAllison.github.io/projects/project7)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/Federated Learning Presentation.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/Federated Learning Presentation.pdf))
-<img src="/files/DCant.png" alt="projects" width="400"/>
+<img src="/files/DFedAvgM.png" alt="projects" width="400"/>
 
   
 ### [Project 5: Terrain Identification from wearable device signals using Neural Networks](https://YSiAllison.github.io/projects/project5)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/The%20prediction%20for%20terrain%20identification.pdf))
