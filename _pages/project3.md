@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/project7
+permalink: /projects/project3
 author_profile: true
 ---
 
-## Project 7: Disease prevention strategy evaluation based on risk prediction models ([Abstract](https://www.biorxiv.org/content/10.1101/2024.11.23.624994v1); [Dissertation Abstract](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/YaqinJYT_ASHG_poster.pdf))
+## Project 3: Federated Learning for privacy-preserving and effective distributed learning (A review)  ([Report](files/Federated learning report.pdf); [Presentation](files/Federated Learning Presentation.pdf))
 
 **Background**   Copy number variants (CNVs) are DNA gains or losses involving $>50$ base-pairs. While whole-genome sequencing (WGS) enables comprehensive CNV detection, CNV association analysis of WGS data faces key challenges: Because CNVs rarely align to common breakpoints, different locus definitions can yield substantially different CNV loci. Such inconsistencies hinder result interpretability and cross-study comparison. Moreover, most existing association methods adapted from SNP analysis focus on CNV dosage and ignore length, despite evidence that CNV length contributes to disease risk.
 
