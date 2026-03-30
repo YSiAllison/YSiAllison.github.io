@@ -23,7 +23,7 @@ to showcase the application of Federated Learning in logistic regression, demons
 estimates with respect to the sample size and the model size.
 
 
-<img src="https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/Fig1.ga_gmiu.png" alt="projects" width="1000"/>
+<img src="https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DFedAvgM.png" alt="projects" width="1000"/>
 
 
 
