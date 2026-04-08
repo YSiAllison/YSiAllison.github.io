@@ -1,4 +1,4 @@
-# Allison Yaqin Si's personal website
+# Yaqin Si's personal website
 
 ## [YSiAllison.github.io](https://YSiAllison.github.io)
 
