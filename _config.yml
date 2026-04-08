@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Allison (Yaqin) Si"
+title                    : "Yaqin Si"
 title_separator          : "-"
-name                     : "Allison (Yaqin) Si"
+name                     : "Yaqin Si"
 description              : "Ph.D in Bioinformatics (2026) & Master in Statistics | Interests: statistical genetics, machine learning, data science"
 #url                      : https://YSiAllison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
