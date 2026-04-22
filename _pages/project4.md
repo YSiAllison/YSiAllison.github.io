@@ -5,24 +5,9 @@ permalink: /projects/project4
 author_profile: true
 ---
 
-## Project 5: Federated Learning for Private and Efficient Computation ([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/Federatedlearningreport.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningPresentation.pdf))
+## Project 4: Causal DAG learning framework ([Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.pptx); [Video](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.mp4)
 
-**Summary** The Federated Learning framework provides privacy-preserving algorithms to learn a valid machine
-learning model without centralizing the data. In the training process, a central server collects model
-parameter updates from clients and aggregates the local model updates to update the global model.
-Depending on the heterogeneity between clients and the trust level assigned to the clients, robust aggregation rules can be applied in the global model update procedure to protect the central server against
-attacks on the client side. 
-
-On the other hand, clients borrow information from their neighbors in a
-decentralized Federated Learning framework to protect against the attack on the central server side.
-Centralized Federated Learning and Decentralized Federated Learning both incorporate massive clientserver/client-client communication. Applying the quantization procedure to the model updates, increasing the local iterations before each communication round, and one-shot updating with higher-order approximation would save bandwidth in communication and enhance computation efficiency. We glimpse
-over some of the common set-ups for Federated Learning, starting at the most basic setup of the Federated Averaging Algorithm and considering extensions to suit various practical concerns, such as model
-poisoning due to attacks and heterogeneity between clients.
+**Summary** Causality is an important concept for health sciences. Causality is particularly vital for finding adverse drug events, risk factors, or important biomarkers for disease using high-dimension health data. However, under a general causal graph, the exposure may not only have a direct effect on the outcome, but also an indirect effect regulated by a set of mediators. Thus, to estimate this complicate causal network, structure learning algorithms of the directed acyclic graph (DAG) are widely used. Many popular DAG learning algorithms therefore have been applied to better solve this problem both computationally and mathematically. Specifically, for this project, we would like to try a new method--- Analysis of Causal Effects (ANOCE), under the linear structure equation model (LSEM), which is an extension of classical variational auto-encoder (VAE) framework, but with a novel identification constraint that specifies the topological order of the exposure and the outcome in the DAG. 
 
 
-We also present a simple simulation study
-to showcase the application of Federated Learning in logistic regression, demonstrating the behavior of
-estimates with respect to the sample size and the model size.
-
-
-<img src="https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DFedAvgM.png" alt="projects" width="1000"/>
+<img src="https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG.png" alt="projects" width="1000"/>
