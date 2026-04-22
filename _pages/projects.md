@@ -16,7 +16,7 @@ redirect_from:
 
 ### Project 3: Joint analysis of DNA structural variants and SNPs (Ongoing)
 
-### [Project 4: Causal DAG learning framework](https://YSiAllison.github.io/projects/project4)([Video](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.mp4); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.pptx))
+### [Project 4: Causal DAG learning framework](https://YSiAllison.github.io/projects/project4)[Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.pdf))
 <img src="/files/DAG.png" alt="projects" width="400"/>
 
 ### [Project 5: Federated Learning for Private and Efficient Computation](https://YSiAllison.github.io/projects/project5)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningreport.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningPresentation.pdf))
