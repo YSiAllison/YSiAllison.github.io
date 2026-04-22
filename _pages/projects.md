@@ -17,21 +17,24 @@ redirect_from:
 ### Project 3: Joint analysis of DNA structural variants and SNPs (Ongoing)
 
 ### [Project 4: Federated Learning for Private and Efficient Computation](https://YSiAllison.github.io/projects/project7)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningreport.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningPresentation.pdf))
+<img src="/files/DAG.png" alt="projects" width="400"/>
+
+### [Project 5: Causal DAG learning framework](https://YSiAllison.github.io/projects/project7)([Video](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.mp4); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.pdf))
 <img src="/files/DFedAvgM.png" alt="projects" width="400"/>
 
   
-### [Project 5: Terrain Identification from wearable device signals using Neural Networks](https://YSiAllison.github.io/projects/project5)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/The%20prediction%20for%20terrain%20identification.pdf))
+### [Project 6: Terrain Identification from wearable device signals using Neural Networks](https://YSiAllison.github.io/projects/project5)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/The%20prediction%20for%20terrain%20identification.pdf))
 
 <img src="/files/NNstructure.png" alt="projects" width="400"/>
 
 
-### [Project 6: Genome Assembly from PacBio Sequencing Reads](https://YSiAllison.github.io/projects/project6)
+### [Project 7: Naturally-inspired algorithm for multiple sequence alignment](https://YSiAllison.github.io/projects/project7)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCantdocs.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCAntcolony.pdf))
+<img src="/files/DCant.png" alt="projects" width="400"/>
+
+### [Project 8: Genome Assembly from PacBio Sequencing Reads](https://YSiAllison.github.io/projects/project6)
 
 <img src="/files/DMGenomeAssembly.png" alt="projects" width="400"/>
   
-
-  ### [Project 7: Naturally-inspired algorithm for multiple sequence alignment](https://YSiAllison.github.io/projects/project7)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCantdocs.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DCAntcolony.pdf))
-<img src="/files/DCant.png" alt="projects" width="400"/>
 
   
   
