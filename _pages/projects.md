@@ -16,11 +16,13 @@ redirect_from:
 
 ### Project 3: Joint analysis of DNA structural variants and SNPs (Ongoing)
 
-### [Project 4: Federated Learning for Private and Efficient Computation](https://YSiAllison.github.io/projects/project7)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningreport.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningPresentation.pdf))
+### [Project 4: Causal DAG learning framework](https://YSiAllison.github.io/projects/project4)([Video](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.mp4); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.pdf))
 <img src="/files/DAG.png" alt="projects" width="400"/>
 
-### [Project 5: Causal DAG learning framework](https://YSiAllison.github.io/projects/project7)([Video](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.mp4); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/DAG_VAE.pdf))
+### [Project 5: Federated Learning for Private and Efficient Computation](https://YSiAllison.github.io/projects/project4)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningreport.pdf); [Presentation](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/FederatedLearningPresentation.pdf))
 <img src="/files/DFedAvgM.png" alt="projects" width="400"/>
+
+
 
   
 ### [Project 6: Terrain Identification from wearable device signals using Neural Networks](https://YSiAllison.github.io/projects/project5)([Report](https://github.com/YSiAllison/YSiAllison.github.io/blob/master/files/The%20prediction%20for%20terrain%20identification.pdf))
